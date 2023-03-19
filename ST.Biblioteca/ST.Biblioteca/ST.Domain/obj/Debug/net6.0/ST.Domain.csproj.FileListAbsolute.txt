@@ -1,0 +1,14 @@
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\bin\Debug\net6.0\ST.Domain.deps.json
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\bin\Debug\net6.0\ST.Domain.runtimeconfig.json
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\bin\Debug\net6.0\ST.Domain.dll
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\bin\Debug\net6.0\ST.Domain.pdb
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.csproj.AssemblyReference.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.AssemblyInfoInputs.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.AssemblyInfo.cs
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.dll
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\refint\ST.Domain.dll
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.pdb
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ST.Domain.genruntimeconfig.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Domain\obj\Debug\net6.0\ref\ST.Domain.dll

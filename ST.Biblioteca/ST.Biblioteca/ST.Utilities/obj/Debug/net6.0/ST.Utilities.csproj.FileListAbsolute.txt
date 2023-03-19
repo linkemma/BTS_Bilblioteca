@@ -1,0 +1,12 @@
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\bin\Debug\net6.0\ST.Utilities.deps.json
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\bin\Debug\net6.0\ST.Utilities.dll
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\bin\Debug\net6.0\ST.Utilities.pdb
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.csproj.AssemblyReference.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.AssemblyInfoInputs.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.AssemblyInfo.cs
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.dll
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\refint\ST.Utilities.dll
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ST.Utilities.pdb
+C:\Users\AMILCAR\source\repos\ST.Biblioteca\ST.Utilities\obj\Debug\net6.0\ref\ST.Utilities.dll
